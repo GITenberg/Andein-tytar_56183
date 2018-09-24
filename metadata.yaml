@@ -1,11 +1,16 @@
 _repo: Andein-tytar_56183
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: West, Erkki
     gutenberg_agent_id: '48709'
     url: http://www.gutenberg.org/2009/agents/48709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56183#Andein-tytar
 gutenberg_issued: '2017-12-16'
 gutenberg_type: Text
 identifiers:
